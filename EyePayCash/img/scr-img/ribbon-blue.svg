@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297.548" height="283.793" viewBox="0 0 297.548 283.793">
+  <defs>
+    <filter id="Trazado_561" x="0" y="0" width="297.548" height="283.793" filterUnits="userSpaceOnUse">
+      <feOffset dy="27.65" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="19.256" result="blur"/>
+      <feFlood flood-color="#2e5cb7" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Trazado_561)">
+    <path id="Trazado_561-2" data-name="Trazado 561" d="M983.927,3853.182l-25.453,25.453a11.285,11.285,0,0,1-15.959,0h0a11.286,11.286,0,0,1,0-15.96l13.894-13.895a11.285,11.285,0,0,0,0-15.959l-1.121-1.121a11.285,11.285,0,0,0-15.959,0L825.605,3941.937a11.286,11.286,0,0,0,0,15.96l1.121,1.121a11.285,11.285,0,0,0,15.959,0l43-43.189a11.286,11.286,0,0,1,15.96,0h0a11.285,11.285,0,0,1,0,15.959l-44.289,44.479a11.285,11.285,0,0,0,0,15.959l1.121,1.122a11.287,11.287,0,0,0,15.96,0l126.57-123.086a11.283,11.283,0,0,0,0-15.959l-1.121-1.121A11.283,11.283,0,0,0,983.927,3853.182Z" transform="translate(-764.53 -3798.28)" fill="#fff"/>
+  </g>
+</svg>
